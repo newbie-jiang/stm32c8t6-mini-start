@@ -179,7 +179,7 @@ arm-none-eabi-gcc -mcpu=cortex-m3 -fdata-sections -ffunction-sections -O0 -g3 -s
 ```bash
 |-- 1.original_program         
 |   |-- stm32-f103c8t6          //cubemx生成原始keil工程
-|   `-- stm32-f103c8t6-cmake    //cubemx生成原始cmaek工程
+|   `-- stm32-f103c8t6-cmake    //cubemx生成原始cmake工程
 |-- 2.minimum_program
 |   |-- mini-stm32-f103c8t6       //精简后的keil工程
 |   `-- mini-stm32-f103c8t6-cmake //精简后的cmake工程
