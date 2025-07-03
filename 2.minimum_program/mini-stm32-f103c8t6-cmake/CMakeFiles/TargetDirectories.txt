@@ -1,0 +1,5 @@
+G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/CMakeFiles/103c8-cmake.dir
+G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/CMakeFiles/edit_cache.dir
+G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/CMakeFiles/rebuild_cache.dir
+G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

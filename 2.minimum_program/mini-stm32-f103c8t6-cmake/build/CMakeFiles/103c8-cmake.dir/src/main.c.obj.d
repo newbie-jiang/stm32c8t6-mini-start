@@ -1,0 +1,3 @@
+CMakeFiles/103c8-cmake.dir/src/main.c.obj: /home/hdj/st-cmake/src/main.c \
+ /home/hdj/st-cmake/src/stm32f103xb.h /home/hdj/st-cmake/src/core_cm3.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h

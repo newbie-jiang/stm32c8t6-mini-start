@@ -1,0 +1,14 @@
+[
+{
+  "directory": "G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake",
+  "command": "G:\\software_work\\gcc-arm-none-eabi-10.3-2021.10-win32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IG:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/src  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\103c8-cmake.dir\\src\\main.c.obj -c G:\\desktop\\stm32f103c8t6-mini-start\\2.minimum_program\\mini-stm32-f103c8t6-cmake\\src\\main.c",
+  "file": "G:\\desktop\\stm32f103c8t6-mini-start\\2.minimum_program\\mini-stm32-f103c8t6-cmake\\src\\main.c",
+  "output": "CMakeFiles\\103c8-cmake.dir\\src\\main.c.obj"
+},
+{
+  "directory": "G:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake",
+  "command": "G:\\software_work\\gcc-arm-none-eabi-10.3-2021.10-win32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IG:/desktop/stm32f103c8t6-mini-start/2.minimum_program/mini-stm32-f103c8t6-cmake/src  -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\103c8-cmake.dir\\src\\startup_stm32f103xb.s.obj -c G:\\desktop\\stm32f103c8t6-mini-start\\2.minimum_program\\mini-stm32-f103c8t6-cmake\\src\\startup_stm32f103xb.s",
+  "file": "G:\\desktop\\stm32f103c8t6-mini-start\\2.minimum_program\\mini-stm32-f103c8t6-cmake\\src\\startup_stm32f103xb.s",
+  "output": "CMakeFiles\\103c8-cmake.dir\\src\\startup_stm32f103xb.s.obj"
+}
+]

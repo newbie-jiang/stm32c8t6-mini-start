@@ -1,0 +1,7 @@
+Dependencies for Project 'stm32-f103c8t6', Target 'stm32-f103c8t6': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (startup_stm32f103xb.s)(0x68650D84)(--cpu Cortex-M3 -g --apcs=interwork -IG:\software_work\keil5.32\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include--pd "__UVISION_VERSION SETA 541" --pd "STM32F10X_MD SETA 1"--list startup_stm32f103xb.lst --xref -o stm32-f103c8t6\startup_stm32f103xb.o --depend stm32-f103c8t6\startup_stm32f103xb.d)
+F (..\src\main.c)(0x6865F319)(--c99 -c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I ..\src-IG:\software_work\keil5.32\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o stm32-f103c8t6\main.o --omf_browse stm32-f103c8t6\main.crf --depend stm32-f103c8t6\main.d)
+I (..\src\stm32f103xb.h)(0x686520A1)
+I (..\src\core_cm3.h)(0x68651BFB)
+I (G:\software_work\keil5.32\ARM\ARMCC\include\stdint.h)(0x5F63877C)

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hdj/st-cmake/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/home/hdj/st-cmake/src  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/103c8-cmake.dir/src/main.c.obj -c /home/hdj/st-cmake/src/main.c",
+  "file": "/home/hdj/st-cmake/src/main.c"
+},
+{
+  "directory": "/home/hdj/st-cmake/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -I/home/hdj/st-cmake/src  -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles/103c8-cmake.dir/src/startup_stm32f103xb.s.obj -c /home/hdj/st-cmake/src/startup_stm32f103xb.s",
+  "file": "/home/hdj/st-cmake/src/startup_stm32f103xb.s"
+}
+]
